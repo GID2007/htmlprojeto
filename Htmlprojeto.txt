@@ -1,0 +1,54 @@
+!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8"/>
+<title> Rede Social  </title>
+<style>
+
+
+</style>
+
+</head>
+	<body>
+	 # usar no css <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>#
+		<header class="Menu-Principal>
+			<div class="logo">
+			<img spc=""/>
+		</div>
+			<div class="redes-sociais"> #adicionar as redes socias se quiser#
+				<ul>
+					<li><a href""></a></li>
+					<li><a href""></a></li>
+					<li><a href""></a></li>
+					<li><a href""></a></li>
+				</ul>
+			<\div>
+		</header>
+		<main>
+			<div class="header-2"> #Menu, botões#
+			<div class="menu">
+				<ul>
+					<li><a href"Fotos"></a></li>
+					<li><a href"Dicas"></a></li>
+					<li><a href"Sobre nós"></a></li>
+					<li><a href"Curtidas"></a></li>
+					<li><a href"Postagens"></a></li>
+					<li><a href"minhas Fotos"></a></li>
+				</ul>
+			</div>
+			<div class="busca"> #espaço para pesquisa busca#
+				<input placeholder="buscar" typer="text"/>
+			</div>
+		</main>
+		<div class="col-100">
+			<div class="slide-principal">
+				<div><img src="Adicionar imagem"/></div>
+				<div><img src="Adicionar imagem"/></div>
+				<div><img src="Adicionar imagem"/></div>
+				<div><img src="Adicionar imagem"/></div>
+			</div>
+		<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+		<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+				
+	</body>
